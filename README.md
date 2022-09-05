@@ -15,7 +15,7 @@ Source: https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversa
 Acknowledgements
 ---
 The approaches of decoding the coin's cryptographic codes in Python scripts
-in this repository are based on findings<br>
+in this repository are based on findings
 **James Newburrie** (@DifficultNerd)
 shared in a Twitter thread the same day the coin was released:
 > Solved the ASD coin. 
