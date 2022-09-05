@@ -21,6 +21,7 @@ Hint: Braille numbers -- https://en.wikipedia.org/wiki/Braille
     .        .   .  .   ..  ..  .   ..
 ```
 
+Resolving the letters to Braille numbers:
 ```
 B   T   H   A   S   A
 ..  .   ..  .   .   ..
@@ -32,9 +33,11 @@ Ordered by numeric value:
 ```
 A   T   B   A   S   H
 .   .   ..  ..  .   ..
-    .   .    .   .
+    .        .   .  .
 1   2   3   4   5   6
 ```
+
+Solution:
 
 ATBASH -- https://en.wikipedia.org/wiki/Atbash
 
